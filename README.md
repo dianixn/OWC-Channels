@@ -3,13 +3,15 @@ The optical wireless channel used in the paper of "Robust Channel Estimation for
 
 cite as 
 
-%%%
+%%
+
 @article{luan2025robust,
   title={Robust Channel Estimation for Optical Wireless Communications Using Neural Network},
   author={Luan, Dianxin and Thompson, John},
   journal={arXiv preprint arXiv:2504.02134},
   year={2025}
 }
-%%%
+
+%%
 
 NVIDA Sionna Software also contains optical channels at https://github.com/NVlabs/sionna. 
