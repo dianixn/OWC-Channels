@@ -9,5 +9,3 @@ cite as
     journal={arXiv preprint arXiv:2504.02134},
     year={2025}
     }
-
-NVIDA Sionna Software also contains optical channels at https://github.com/NVlabs/sionna. 
