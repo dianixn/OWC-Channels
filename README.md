@@ -10,9 +10,10 @@ Optical Wireless Communication (OWC) has gained significant attention due to its
 
 cite as 
 
-    @article{luan2025robust,
-    title={Robust Channel Estimation for Optical Wireless Communications Using Neural Network},
+    @article{luan2026robust,
+    title={Robust channel estimation for optical wireless communications using neural network},
     author={Luan, Dianxin and Thompson, John},
-    journal={arXiv preprint arXiv:2504.02134},
-    year={2025}
+    journal={IEEE Wireless Communications Letters},
+    year={2026},
+    publisher={IEEE}
     }
